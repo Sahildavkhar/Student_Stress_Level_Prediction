@@ -110,8 +110,3 @@ We aim to answer:
 Distributed under the **MIT License**. You may freely use, modify, or redistribute this project.  
 
 ---
-
-## 🙌 Acknowledgments  
-
-- Dataset reference: *Kaggle (Academic Stress Datasets)* – replace with actual link.  
-- Inspired by initiatives promoting **mental health and student well-being**.  
