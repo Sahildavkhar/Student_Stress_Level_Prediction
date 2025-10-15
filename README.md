@@ -36,7 +36,7 @@ We aim to answer:
 - Target variable: `stress_level` (categorical).  
 - Dataset is **balanced** and has **no major missing values**.  
 
-> ⚠️ *Dataset not included due to licensing. Please replace `student_stress.csv` with your local dataset.*  
+> ⚠️ *Dataset not included due to licensing. Please replace `StresslevelDataset.csv` with your local dataset.*  
 
 ---
 
